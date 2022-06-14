@@ -25,7 +25,6 @@ body {
   background: url("./images/bg-desktop-light.jpg"), var(--bg);
   background-repeat: no-repeat;
   background-size: 100% auto;
-  font-size: 18px;
 }
 body.dark {
   background: url("./images/bg-desktop-dark.jpg"), var(--bg);
@@ -103,7 +102,7 @@ form input {
   border-radius: 0.3rem;
   background: var(--dark-grayish);
   border: none;
-  font-size: 1.4rem;
+  font-size: 1.25rem;
   font-family: inherit;
   font-weight: 400;
   color: var(--text-primary);
